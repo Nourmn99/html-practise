@@ -1,3 +1,9 @@
 p {
-    color: white; background-color: red;
+    color: white; background-color: orange;
+}
+#pic {
+    margin-left: 500px;
+}
+body {
+    background-color:grey ;
 }
